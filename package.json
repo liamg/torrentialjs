@@ -1,0 +1,21 @@
+{
+  "name": "torrentialjs",
+  "version": "0.0.0",
+  "description": "BitTorrent library in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liamg/torrentialjs.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/liamg/torrentialjs/issues"
+  },
+  "devDependencies": {
+    "jasmine": "~2.3.2"
+  }
+}
